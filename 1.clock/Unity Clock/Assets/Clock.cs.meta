@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e0de127f212200a46a1a9a169c5cf684
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hoursTransform: {fileID: 1692262230023339899, guid: bac3cd07a71aeb14ca3044dc7c62f96c,
+      type: 3}
+  - minutesTransform: {fileID: 5910151741212046526, guid: 7e03942d69a93d942a2966f334d8041f,
+      type: 3}
+  - secondsTransform: {fileID: 5791926685138455369, guid: fc6631e627546014f84b5c2c015b8670,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
